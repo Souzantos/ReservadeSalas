@@ -1,0 +1,29 @@
+-----------SALAS CADASTRADAS-----------
+
+ID	BLOCO/NUM	TIPO
+
+1	A12    		Comum
+2	A1     		Comum
+5	Q88    		Comum
+6	A11    		Comum
+4	G88    		Laboratorio
+7	A5     		Comum
+8	B8     		Comum
+9	C4     		Laboratorio
+
+-----------DOCENTES CADASTRADOS-----------
+
+
+ID	Matricula	Nome
+1	12345		Dhiego
+2	54321		Fontes
+3	15243		Fabiano
+4	987621		Vaguetti
+
+-----------RESERVAS REALIZADAS-----------
+
+ID	Sala	Data da reserva		Professor
+4214961	1	20/11/2016		(null)	
+4214963	2	18/11/2016		(null)	
+4214964	5	22/11/2016		(null)	
+4214965	2	19/10/2018		(null)	
